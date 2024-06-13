@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Linux-1572B6?style=flat-square&logo=Linux&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Linux-AFEEEE?style=flat-square&logo=Linux&logoColor=white"/></a> &nbsp
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAIMJAE&layout=compact)](https://github.com/NAIMJAE/github-readme-stats)
 
