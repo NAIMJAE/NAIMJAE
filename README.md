@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAIMJAE&layout=compact)](https://github.com/NAIMJAE/github-readme-stats)
+ (https://github-readme-stats.vercel.app/api/top-langs/?username=NAIMJAE&layout=compact)](https://github.com/NAIMJAE/github-readme-stats)
 </p>
 
 <p align="center">
