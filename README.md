@@ -10,6 +10,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAIMJAE&layout=compact" alt="Top Languages">
 </p>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrdlawo5985)](https://solved.ac/qkrdlawo5985/)
+
 <p align="center">
   <strong>Tech Stack 📚</strong>
 </p>
