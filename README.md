@@ -10,7 +10,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAIMJAE&layout=compact" alt="Top Languages">
 </p>
 <p align="center">
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrdlawo5985)](https://solved.ac/qkrdlawo5985/)
+  <a href="https://solved.ac/qkrdlawo5985/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrdlawo5985" alt="Solved.ac Profile">
+  </a>
 </p>
 
 <p align="center">
