@@ -44,6 +44,8 @@
         <td align="center">
           <h3>프로젝트 1</h3>
           <img src="./image.png" alt="Project 1" width="200">
+          ![refcode](https://github.com/user-attachments/assets/ee110e5d-6866-41d1-bf8f-4ef3b884f7c0)
+
           <p>이 프로젝트는 ~~를 목표로 만들어졌습니다.</p>
         </td>
         <td align="center">
