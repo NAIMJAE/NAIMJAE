@@ -38,27 +38,33 @@
 </div>
 <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📂 Projects </h2>
-  <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-    <div style="width: 300px; border: 1px solid #d8dee4; border-radius: 8px; padding: 10px; text-align: center;">
-      <h3>프로젝트 1</h3>
-      <img src="./image.png" alt="Project 1" width="100%">
-      <p>이 프로젝트는 ~~를 목표로 만들어졌습니다.</p>
-    </div>
-    <div style="width: 300px; border: 1px solid #d8dee4; border-radius: 8px; padding: 10px; text-align: center;">
-      <h3>프로젝트 2</h3>
-      <img src="./image.png" alt="Project 2" width="100%">
-      <p>이 프로젝트는 ~~를 목표로 만들어졌습니다.</p>
-    </div>
-    <div style="width: 300px; border: 1px solid #d8dee4; border-radius: 8px; padding: 10px; text-align: center;">
-      <h3>프로젝트 3</h3>
-      <img src="./image.png" alt="Project 3" width="100%">
-      <p>이 프로젝트는 ~~를 목표로 만들어졌습니다.</p>
-    </div>
-    <div style="width: 300px; border: 1px solid #d8dee4; border-radius: 8px; padding: 10px; text-align: center;">
-      <h3>프로젝트 4</h3>
-      <img src="./image.png" alt="Project 4" width="100%">
-      <p>이 프로젝트는 ~~를 목표로 만들어졌습니다.</p>
-    </div>
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center">
+          <h3>프로젝트 1</h3>
+          <img src="./image.png" alt="Project 1" width="200">
+          <p>이 프로젝트는 ~~를 목표로 만들어졌습니다.</p>
+        </td>
+        <td align="center">
+          <h3>프로젝트 2</h3>
+          <img src="./image.png" alt="Project 2" width="200">
+          <p>이 프로젝트는 ~~를 목표로 만들어졌습니다.</p>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <h3>프로젝트 3</h3>
+          <img src="./image.png" alt="Project 3" width="200">
+          <p>이 프로젝트는 ~~를 목표로 만들어졌습니다.</p>
+        </td>
+        <td align="center">
+          <h3>프로젝트 4</h3>
+          <img src="./image.png" alt="Project 4" width="200">
+          <p>이 프로젝트는 ~~를 목표로 만들어졌습니다.</p>
+        </td>
+      </tr>
+    </table>
   </div>
 </div>
 <div style="text-align: left;"> 
