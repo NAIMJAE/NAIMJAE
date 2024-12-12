@@ -43,9 +43,9 @@
       <tr>
         <td align="center">
           <h3>코드 Reference 사이트 프로젝트</h3>
-          <img src="https://github.com/user-attachments/assets/ee110e5d-6866-41d1-bf8f-4ef3b884f7c0" alt="Project 1" width="300">
-          <p>코드 예제들을 실제로 사용해 볼 수 있는 사이트 개발 프로젝트입니다.</p>
-          <p>웹 프로그래밍의 전반적인 개념들을 공부하며 익힌 예제 코드들을 체험해 볼 수 있습니다.</p>
+          <img src="https://github.com/user-attachments/assets/ee110e5d-6866-41d1-bf8f-4ef3b884f7c0" alt="Project 1" width="400">
+          <h4>코드 예제들을 실제로 사용해 볼 수 있는 사이트 개발 프로젝트입니다.</h4>
+          <h4>웹 프로그래밍의 전반적인 개념들을 공부하며 익힌 예제 코드들을 체험해 볼 수 있습니다.</h4>
         </td>
         <td align="center">
           <h3>프로젝트 2</h3>
