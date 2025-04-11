@@ -39,7 +39,7 @@
 <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Contact </h2>
   <div align= "left">
-    <h5>- 📧 Email: [skdlawo5985@gmail.com](mailto:skdlawo5985@gmail.com)</h3>
+    <h5>- 📧 Email: skdlawo5985@gmail.com</h3>
   </div> 
 </div>
     
